@@ -49,3 +49,6 @@ Me especializo en soluciones digitales con buen diseño, gestión de contenidos 
 ## 📬 Contacto
 
 ¡Hablemos de tecnología, diseño o de cómo mejorar la experiencia de una app!
+
+ <img width="1280" height="1079" alt="8dc28f49-800e-45a7-9947-b547b3dfdea8" src="https://github.com/user-attachments/assets/f7d20c9b-2552-4a8b-9e19-2c40cc1b7fff" />
+
